@@ -2,15 +2,6 @@
 
 A series of projects and exercises documenting my journey learning Docker. Each project builds on Docker fundamentals and explores different use cases, from basic containerization to multi-container orchestration.
 
-## Projects
-
-### Multi_Docker
-A practical implementation of multi-container orchestration using docker-compose. The project runs a FastAPI application integrated with Ollama (for Llama 3 LLM) and MongoDB (for persistent storage). This demonstrates:
-- Building custom Docker images
-- Running multiple services with docker-compose
-- Container networking and communication
-- Volume management for data persistence
-
 ## Learning Goals
 - Understand Docker fundamentals (images, containers, layers)
 - Master dockerfile creation and optimization
